@@ -3,8 +3,8 @@
 
 The company wants to know:
 
-Which variables are significant in predicting the price of a house, and
-How well those variables describe the price of a house.
+* Which variables are significant in predicting the price of a house, and
+* How well those variables describe the price of a house.
 
 
 ## Table of Contents
@@ -46,7 +46,7 @@ The Top 5 Features are:
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Contact
-Created by [@renga9695] - feel free to contact me!
+Created by [@dhanashreebose] - feel free to contact me!
 
 
 <!-- Optional -->
